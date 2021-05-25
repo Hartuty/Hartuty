@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brett Atuti</h1>
-<h3 align="center">A passionate Full Stack developer from Nairobi Kenya currently focusing more on mobile development</h3>
+<h3 align="center">A passionate Full Stack developer from Nairobi Kenyat</h3>
 
 <p align="left"> <a href="https://twitter.com/brett_atuti" target="blank"><img src="https://img.shields.io/twitter/follow/brett_atuti?logo=twitter&style=for-the-badge" alt="brett_atuti" /></a> </p>
 
