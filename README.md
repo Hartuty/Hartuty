@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/brett_atuti" target="blank"><img src="https://img.shields.io/twitter/follow/brett_atuti?logo=twitter&style=for-the-badge" alt="brett_atuti" /></a> </p>
 
-- 🌱 I’m currently learning **Unity and Flutter**
+- 🌱 I’m currently learning **Unity3d**
 
-- 💬 Ask me about **Laravel, Java**
+- 💬 Ask me about **Laravel, Java, Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
